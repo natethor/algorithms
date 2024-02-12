@@ -13,3 +13,8 @@
 
 # Go workspace file
 go.work
+
+# misc
+.vscode
+*.zip
+debug.log
